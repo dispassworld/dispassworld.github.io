@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 于广溪的个人博客
+subtitle: 'blog of yuguangxi'
+description: '记录我的生活和其他想分享的一切'
 keywords:
-author: John Doe
-language: en
+author: Guangxi Yu
+language: zh-CN
 timezone: ''
 
 # URL
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
